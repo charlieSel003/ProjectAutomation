@@ -19,7 +19,8 @@ public class HomePageObjects extends BasePage {
 	}
 
 	public WebElement womenbtn 33() {
-		return womtab;
+	public WebElement womenbtn12() {
+	return womtab;
 	}
 
 	
