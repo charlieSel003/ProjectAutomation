@@ -18,7 +18,7 @@ public class HomePageObjects extends BasePage {
 		PageFactory.initElements(driver, this);
 	}
 
-	public WebElement womenbtn() {
+	public WebElement womenbtn12() {
 		return womtab;
 	}
 
